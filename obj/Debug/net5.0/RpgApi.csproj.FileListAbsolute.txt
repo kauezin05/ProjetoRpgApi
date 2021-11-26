@@ -122,3 +122,8 @@ D:\etec\m2\ds\RpgApi\bin\Debug\net5.0\Publish\Publish\Publish\Publish\Publish\Pu
 D:\etec\m2\ds\RpgApi\bin\Debug\net5.0\Publish\Publish\Publish\Publish\Publish\Publish\RpgApi.deps.json
 D:\etec\m2\ds\RpgApi\bin\Debug\net5.0\Publish\Publish\Publish\Publish\Publish\Publish\RpgApi.runtimeconfig.json
 D:\etec\m2\ds\RpgApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Etec\M2\DS\RpgApi\bin\Debug\net5.0\Publish\Publish\Publish\Publish\Publish\Publish\Publish\web.config
+D:\Etec\M2\DS\RpgApi\bin\Debug\net5.0\Publish\Publish\Publish\Publish\Publish\Publish\Publish\appsettings.Development.json
+D:\Etec\M2\DS\RpgApi\bin\Debug\net5.0\Publish\Publish\Publish\Publish\Publish\Publish\Publish\appsettings.json
+D:\Etec\M2\DS\RpgApi\bin\Debug\net5.0\Publish\Publish\Publish\Publish\Publish\Publish\Publish\RpgApi.deps.json
+D:\Etec\M2\DS\RpgApi\bin\Debug\net5.0\Publish\Publish\Publish\Publish\Publish\Publish\Publish\RpgApi.runtimeconfig.json
