@@ -1,4 +1,5 @@
 D:\Etec\M2\DS\RpgApi\Publish\RpgApi.exe
+D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\Publish\Publish\web.config
 D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\Publish\web.config
 D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\web.config
 D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\web.config
@@ -19,6 +20,10 @@ D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\appsettings
 D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\appsettings.json
 D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\Publish\appsettings.Development.json
 D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\Publish\appsettings.json
+D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\Publish\Publish\appsettings.Development.json
+D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\Publish\Publish\appsettings.json
+D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\Publish\Publish\RpgApi.deps.json
+D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\Publish\Publish\RpgApi.runtimeconfig.json
 D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\Publish\RpgApi.deps.json
 D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\Publish\RpgApi.runtimeconfig.json
 D:\Etec\M2\DS\RpgApi\Publish\Publish\Publish\Publish\Publish\Publish\RpgApi.deps.json

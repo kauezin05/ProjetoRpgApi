@@ -107,5 +107,25 @@ namespace RpgApi.Controllers
             }
         }
 
+        [HttpPut]
+        public async Task<IActionResult> Update(Arma novaArma)
+        {
+            try
+            {
+                if (novaArma.Dano == 0)
+                {
+                    throw new System.Exception("O dano da arma não pode ser 0");
+                }
+
+                _context.Armas.Update(novaArma);
+                int linhaAfetadas = await _context.SaveChangesAsync();
+
+                return Ok(linhaAfetadas);
+            }
+            catch (System.Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
     }
 }
